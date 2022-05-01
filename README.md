@@ -7,7 +7,7 @@ For more information about resnet18, please check [ResNet18 PyTorch](https://pyt
 ### Dataset Overview with a Plot
 
 <p align="center">
-    <img height="500" width="500" src="dataset_overview.png"> 
+    <img height="300" width="300" src="dataset_overview.png"> 
 </p>
 
 Preprocess our dataset by changing the shape of the image, converting to tensor and normalizing the image channels. These are the default preprocessing steps for image data. In addition, we will perform data augmentation on the training dataset. The preprocessing steps for the test dataset is the same, but W do not prform data augmentation on the test dataset. 
@@ -42,7 +42,7 @@ Preprocess our dataset by changing the shape of the image, converting to tensor 
 ### Plot of Train Cost and Validation Accuracy
 
 <p align="center">
-    <img height="500" width="500" src="acc_loss_graph.png"> 
+    <img height="300" width="300" src="acc_loss_graph.png"> 
 </p>
 
 **It may take a few minutes for the page to open. Please wait to complete your classification process.**
