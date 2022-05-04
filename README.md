@@ -45,9 +45,11 @@ Preprocess our dataset by changing the shape of the image, converting to tensor 
     <img height="300" width="300" src="acc_loss_graph.png"> 
 </p>
 
+For more information, please check train-classification-cnn-pytorch.ipynb file.
+
 **It may take a few minutes for the page to open. Please wait to complete your classification process.**
 
-<h3>Link to test the classifier model: <a href="https://pneumonia-626d3286ef19609ba9594154.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a></h3>
+<center><h3>Link to test the classifier model: <a href="https://pneumonia-626d3286ef19609ba9594154.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a></h3></center>
 
 
 ## Contact Me
