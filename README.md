@@ -49,7 +49,6 @@ Preprocess our dataset by changing the shape of the image, converting to tensor 
 
 <h2>Link to test the classifier model: <a href="https://pneumonia-626d3286ef19609ba9594154.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a></h2>
 
-<br />
 
 ## Contact Me
 
